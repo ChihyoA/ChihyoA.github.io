@@ -8,7 +8,7 @@
 # Theme Settings
 #
 # Review documentation to determine if you should use `theme` or `remote_theme`
-# https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
+# https://mmistakes.github.io/minimal-mistakes/docs/-guide/#installing-the-theme
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
@@ -107,8 +107,8 @@ author:
   name             : "Chihyo(Mark) Ahn"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Ph.D student at Georgia Tech"
-  location         : "Somewhere"
-  email            :
+  location         : "Atlanta, GA"
+  email            : "ahnch@gatech.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
