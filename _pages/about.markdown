@@ -15,4 +15,4 @@ type: pages
   <div style="text-align: right"> 2018 - 2020 </div>
 - #### B.S. in Electronic and Electrical Engineering<br /> B.S. in Business Administration
   **Sungkyunkwan University**
-  <div style="text-align: right"> 2011 - 2018 </div>
+  <div style="text-align: right"> 2011 - 2018 (Valedictorian) </div>
