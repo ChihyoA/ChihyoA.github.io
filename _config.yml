@@ -107,8 +107,9 @@ author:
   name             : "Chihyo(Mark) Ahn"
   avatar           : "/assets/images/profile.jpg"
   bio              : "Ph.D student at Georgia Tech"
+  bio              : "ahnch@gatech.edu"
   location         : "Atlanta, GA"
-  mail             : "ahnch@gatech.edu"
+  #mail             : "ahnch@gatech.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
