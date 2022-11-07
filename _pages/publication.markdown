@@ -7,9 +7,9 @@ type: pages
 ---
 
 - ##### Controlling defect formation of nanoscale AlN: Toward efficient current conduction of ultrawide-bandgap semiconductors
-  <font size="1">Y. Wu, D. A. Laleyan, Z. Deng, C. Ahn, A. F. Aiello, A. Pandey, X. Liu, P. Wang, K. Sun, E. Ahmadi, Y. Sun, M. Kira, P. K.
+  Y. Wu, D. A. Laleyan, Z. Deng, C. Ahn, A. F. Aiello, A. Pandey, X. Liu, P. Wang, K. Sun, E. Ahmadi, Y. Sun, M. Kira, P. K.
   Bhattacharya, E. Kioupakis, Z. Mi
-  Adv. Electron. Mater. (2020) \[paper\](https://doi.org/10.1002/aelm.202000337) </font>
+  Adv. Electron. Mater. (2020) [[paper]](https://doi.org/10.1002/aelm.202000337)
 - ##### Monolayer GaN excitonic deep ultraviolet light emitting diodes
   Y. Wu, X. Liu, P. Wang,  D. A. Laleyan, K. Sun, Y. Sun, C. Ahn, M. Kira,  E. Kioupakis,  Z. Mi
   Appl. Phys. Lett. (2020) [[paper]](https://aip.scitation.org/doi/10.1063/1.5124828)
