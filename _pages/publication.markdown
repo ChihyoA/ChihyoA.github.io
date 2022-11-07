@@ -1,9 +1,11 @@
 ---
-layout: single
-title: publication
-permalink: /publication/
-author_profile: true
-type: pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      permalink: /publication/
 ---
 
-my publication!
+my publication this!
