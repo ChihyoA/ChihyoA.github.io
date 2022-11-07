@@ -9,7 +9,7 @@ type: pages
 ## Education
 - #### Ph.D. in Electrical and Computer Engineering
   **Georgia institute of Technology**
-  2021 - Present
+  <div style="text-align: right"> 2021 - Present </div>
 - #### M.S. in Electrical and Computer Engineering
   **University of Michigan**
   2018 - 2020
