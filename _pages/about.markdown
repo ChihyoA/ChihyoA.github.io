@@ -15,4 +15,4 @@ type: pages
   2018 - 2020
 - #### B.S. in Electronic and Electrical Engineering<br /> B.S. in Business Administration
   **Sungkyunkwan University**
-  2011 - 2018  
+  2011 - 2018 (Valedictorian)  
