@@ -8,11 +8,8 @@ type: pages
 
 ## Education
 - #### Ph.D. in Electrical and Computer Engineering
-  **Georgia institute of Technology**
-  <div style="text-align: right"> 2021 - Present </div>
+  **Georgia institute of Technology** 2021 - Present
 - #### M.S. in Electrical and Computer Engineering
-  **University of Michigan**
-  <div style="text-align: right"> 2018 - 2020 </div>
+  **University of Michigan** 2018 - 2020
 - #### B.S. in Electronic and Electrical Engineering<br /> B.S. in Business Administration
-  **Sungkyunkwan University**
-  <div style="text-align: right"> 2011 - 2018 (Valedictorian) </div>
+  **Sungkyunkwan University** 2011 - 2018 (Valedictorian)  
