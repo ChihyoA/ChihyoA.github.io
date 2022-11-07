@@ -6,13 +6,14 @@ author_profile: true
 type: pages
 ---
 
-#### Education
+### Education
 - ##### Ph.D. in Electrical and Computer Engineering
-  Georgia institute of Technology
+  **Georgia institute of Technology**
   2021 - Present
 - ##### M.S. in Electrical and Computer Engineering
-  University of Michigan
+  **University of Michigan**
   2018 - 2020
-- ##### B.S. in Electronic and Electrical Engineering / Business Administration
-  Sungkyunkwan University
+- ##### B.S. in Electronic and Electrical Engineering
+  ##### B.S. in Business Administration
+  **Sungkyunkwan University**
   2011 - 2018  
