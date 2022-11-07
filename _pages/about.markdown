@@ -13,6 +13,6 @@ type: pages
 - #### M.S. in Electrical and Computer Engineering
   **University of Michigan**
   2018 - 2020
-- #### B.S. in Electronic and Electrical Engineering\B.S. in Business Administration
+- #### B.S. in Electronic and Electrical Engineering<br /> B.S. in Business Administration
   **Sungkyunkwan University**
   2011 - 2018  
