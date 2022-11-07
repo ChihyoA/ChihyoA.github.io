@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chihyo Ahn"
+title                    : "Chihyo(Mark) Ahn Personal Webpage"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Chihyo Ahn"
+description              : "Personal website."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ author:
   avatar           : "/assets/images/profile.jpg"
   bio              : "Ph.D student at Georgia Tech"
   location         : "Atlanta, GA"
-  email            : "ahnch@gatech.edu"
+  mail             : "ahnch@gatech.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
