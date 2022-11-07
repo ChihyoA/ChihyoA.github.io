@@ -1,6 +1,6 @@
 ---
 layout: single
-title: publication
+title: Publications
 permalink: /publication/
 author_profile: true
 type: pages
