@@ -9,7 +9,7 @@ main:
   - title: "publication"
     url: /publication/
   - title: "CV"
-    url: https://www.dropbox.com/scl/fi/0rbx0thsrmmk7gmn7am03/CV_Chihyo_Ahn.pdf?rlkey=8jg5rtuxd8snvd9bm7homrvm1&dl=0
+    url: /assets/CV_Chihyo_Ahn.pdf
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
