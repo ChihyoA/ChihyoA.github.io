@@ -6,6 +6,10 @@ author_profile: true
 type: pages
 ---
 
+- ##### Comparative Analysis of Executing GPU Applications on FPGA: HLS vs. Soft GPU Approaches
+  C. Ahn, S. Jeong, L. P. Cooper, N. Parnenzini, H. Kim
+  IPDPS 2024 Workshop(CGRA4HPC) (2024)
+
 - ##### Controlling defect formation of nanoscale AlN: Toward efficient current conduction of ultrawide-bandgap semiconductors
   Y. Wu, D. A. Laleyan, Z. Deng, C. Ahn, A. F. Aiello, A. Pandey, X. Liu, P. Wang, K. Sun, E. Ahmadi, Y. Sun, M. Kira, P. K.
   Bhattacharya, E. Kioupakis, Z. Mi
