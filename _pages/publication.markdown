@@ -8,7 +8,7 @@ type: pages
 
 - ##### SoftCUDA: Running CUDA on Softcore GPU
   C. Ahn, R. Han, U. Subramanya, J. Zhao, H. Kim
-  FCCM 2025 (2025) [[paper]](https://ieeexplore.ieee.org/document/10596521)
+  FCCM 2025 (2025) [[paper]](https://ieeexplore.ieee.org/document/11008973)
   
 - ##### SparseWeaver: Converting Sparse Operations as Dense Operations on GPUs for Graph Workloads
   S. Jeong, L. P. Cooper, J Lee, H. Choi, C. Ahn, Y. Lee, H. Kim, H. Kim
